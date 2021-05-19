@@ -1,3 +1,18 @@
+# UniBw-Fork of paulorocosta/ai-for-tsp-competition master
+The purpose of this fork is experimentation and development of a 'Track 2' RL solution for the TD-OPSWTW problem given in the _Ai fo TSP competition_ by **IJCAI21**
+
+Team Members are:
+* Maximilian Moll
+* Leonhard Kunzcik
+* Rainer Klug
+
+# To Do:
+* Find out probability distribution of "stochastik travel time"
+* ...
+
+
+# Original README text (unchanged):
+
 # Updates
 * 14.05
     - We have updated ``batch_env_rl.py`` to read from files appropriately. 
